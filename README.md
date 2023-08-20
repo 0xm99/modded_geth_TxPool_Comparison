@@ -42,7 +42,8 @@ server4         |    2.76%   |   20.99%   |   48.62%  |   12.71%  |    0.00%  | 
 
 
 ```
-Transaction Hash                                                     Server Time Differences
+Transaction Hash                                                     Server Time Differences (milliseconds)
+
 --------------------------------------------------------------------
 0x4b76f8a692f8421e55ca8f18bd195720fa78593eff7ccdd3097a14cc486e5a37 |      0 server1  |
 0x2a24127257ed5e129e325f484569e6935ef398387ec0df10a3d93d62860bb271 |      0 server1  |
