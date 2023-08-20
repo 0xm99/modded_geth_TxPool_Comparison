@@ -13,8 +13,8 @@ last tests of modded geth vs default geth
 
 Server server1 file: 1.usa.modded.txt
 Server server2 file: 2.eur.modded.txt
-Server server3 file: 3.default-eur.txt
-Server server4 file: 4.default-eur.txt
+Server server3 file: 3.eur.default.txt
+Server server4 file: 4.eur.default.txt
 
 Server Position Summary:
 
