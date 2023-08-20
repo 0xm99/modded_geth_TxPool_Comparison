@@ -7,6 +7,7 @@ last tests of modded geth vs default geth
 - 4 nodes : 2 modded (1 USA / 1 EUR), 2 default ( EUR only) - same settings for all 4.
 - same txpool fetcher running on each nodes.
 - chasing USDT tx on PCS router (178 tx in total)
+- Details of each txpool fetching frmo each server above on .txt files
 
 ```
 -------------------------------------------------------------------
