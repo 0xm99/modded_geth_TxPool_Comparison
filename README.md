@@ -4,9 +4,9 @@ last tests of modded geth vs default geth
 
 # Process:
 
-- 4 nodes : 2 modded, 2 default - same settings for all 4.
+- 4 nodes : 2 modded (1 USA / 1 EUR), 2 default ( EUR only) - same settings for all 4.
 - same txpool fetcher running on each nodes.
-- chasing USDT tx on PCS router
+- chasing USDT tx on PCS router.
 
 ```
 -------------------------------------------------------------------
