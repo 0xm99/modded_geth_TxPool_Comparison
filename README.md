@@ -1,4 +1,4 @@
-# modded_geth_TxPool_Comparison
+# modded_geth_TxPoolFetching_Comparison
 last tests of modded geth vs default geth
 
 
