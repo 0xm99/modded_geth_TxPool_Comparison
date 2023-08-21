@@ -21,7 +21,7 @@ Server Position Summary:
 
                 | 1st Place  | 2nd Place  | 3rd Place | 4th Place | 5th Place | 6th Place
 -----------------------------------------------------------------------------------------
-server1         |        102 |         49 |        30 |         0 |         0 |         0
+server1         |         99 |         49 |        30 |         0 |         0 |         0
 server2         |         74 |         89 |        12 |         0 |         0 |         0
 server3         |          0 |          1 |        32 |       125 |         0 |         0
 server4         |          5 |         38 |        88 |        23 |         0 |         0
@@ -31,24 +31,21 @@ Server Positions Summary (percentages in each position):
 
                 |    1st     |    2nd     |    3rd    |    4th    |    5th    |    6th
 ----------------|------------|------------|-----------|-----------|-----------|----------
-server1         |   56.35%   |   27.07%   |   16.57%  |    0.00%  |    0.00%  |    0.00%
-server2         |   40.88%   |   49.17%   |    6.63%  |    0.00%  |    0.00%  |    0.00%
-server3         |    0.00%   |    0.55%   |   17.68%  |   69.06%  |    0.00%  |    0.00%
-server4         |    2.76%   |   20.99%   |   48.62%  |   12.71%  |    0.00%  |    0.00%
+server1         |   55.62%   |   27.53%   |   16.85%  |    0.00%  |    0.00%  |    0.00%
+server2         |   41.57%   |   50.00%   |    6.74%  |    0.00%  |    0.00%  |    0.00%
+server3         |    0.00%   |    0.56%   |   17.98%  |   70.22%  |    0.00%  |    0.00%
+server4         |    2.81%   |   21.35%   |   49.44%  |   12.92%  |    0.00%  |    0.00%
 -----------------------------------------------------------------------------------------
-```
-
-
-
-
 
 ```
-Transaction Hash                                                     Server Time Differences (milliseconds)
 
+
+
+
+
+```
+Transaction Hash                                                     Server Time Differences
 --------------------------------------------------------------------
-0x4b76f8a692f8421e55ca8f18bd195720fa78593eff7ccdd3097a14cc486e5a37 |      0 server1  |
-0x2a24127257ed5e129e325f484569e6935ef398387ec0df10a3d93d62860bb271 |      0 server1  |
-0x41318372b24fe91311ebe5bd5a6561ebae191806638d6043fad5eaf6abdd57e2 |      0 server1  |
 0xa670bc53073ac982cccd60d1d96cdeec5753eeb6baf8ef4f67095c73ca989702 |      0 server1  |    +26 server2  |    +28 server4  |    +86 server3  |
 0x589cb5603cb3df2955f07610f4e677969402f744d45f431323d5155677a9ad71 |      0 server1  |    +44 server4  |    +48 server2  |   +603 server3  |
 0x0db4ef94d3d613e99fe29727ed680dfbb1cdab34ac45ed552535b89de1a2110f |      0 server1  |    +50 server2  |    +55 server4  |   +107 server3  |
@@ -227,6 +224,7 @@ Transaction Hash                                                     Server Time
 0xbfbd2bdb601c3ff60e827efb8db42b588d5b193935593f56cb839dd83a29edc2 |      0 server1  |    +32 server2  |    +34 server4  |    +79 server3  |
 0xd88b401f0e438736fca3dccfd6228eb61db3ea0000b22b552388175c870d6faf |      0 server2  |    +24 server1  |    +82 server3  |
 0x64c1223442cf4fbee250b375c8b8c51cbe610cc0a229fca91bd7cf4f895a4d7e |      0 server1  |    +46 server2  |    +64 server4  |    +82 server3  |
+
 
 ```
 
