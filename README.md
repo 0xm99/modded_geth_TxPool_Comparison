@@ -245,3 +245,9 @@ Transaction Hash                                                     Millisecond
 Log file created: /home/script/nodecompare-main/log/2023-08-20T22-44-18.862Z.log
 
 
+### Contact
+https://moppynodes.com
+
+https://t.me/bscprivatefullnode
+
+https://t.me/zdarfa
