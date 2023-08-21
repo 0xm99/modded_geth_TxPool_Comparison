@@ -9,6 +9,17 @@ last tests of modded geth vs default geth
 - chasing USDT tx on PCS router (178 tx in total)
 - Details of each txpool fetching from each server above on .txt files
 
+# node name
+```
+Server1 : usa.modded
+Server2 : eur.modded
+Server3 : eur.default
+Server4 : eur.default
+```
+# Conclusion
+
+Modded nodes win 97% of the time against the 2 default nodes.
+
 ```
 -------------------------------------------------------------------
 
